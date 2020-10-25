@@ -19,7 +19,7 @@ class Convidado {
             let span = document.createElement("span")
             span.innerText = nome
             let img = document.createElement("img")
-            img.src = "img/delete.svg"
+            img.src = "delete.svg"
 
             div.appendChild(span)
             div.appendChild(img)
