@@ -1,0 +1,22 @@
+.card{
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    background-color: wheat;
+}
+input,button{
+    width: 100%;
+    padding: 8px;
+}
+button:hover{
+    background-color: turquoise;
+    cursor: pointer;
+}
+.item{
+    
+    padding: 5px;
+}
+.item img{
+    width: 20px;
+    float: right; 
+}
